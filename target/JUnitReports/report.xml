@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="57.812">
+    <testcase classname="feature to test search bar funcationality" name="Validate search bar in evermos is working" time="57.677">
+        <system-out><![CDATA[Given open browser..........................................................passed
+When home web page..........................................................passed
+And user login..............................................................passed
+When user enters a text in search box.......................................passed
+And user click enter........................................................passed
+When user is navigated to search results....................................passed
+Then verify search result...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
